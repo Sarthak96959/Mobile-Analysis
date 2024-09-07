@@ -1,0 +1,52 @@
+with python,
+read file mobile.html and parse it with BeautifullSoup
+
+
+find all 
+div with class="tUxRFH" data-tkid="en_DpZ-b-GB4PGkozr5CmmsyLzWdxeKTtV0gGe2KMYIYbqN9ZXHLP3qN6C0Y8W47UzYFaq5Tzib0zLV4t4M08SzMw=="
+for all divs 
+
+try find div with class="KzDlHZ" and store it to product_name
+except product_name = ""
+
+try find div with class="Nx9bqj _4b5DiR" and store it to  price
+except price = ""
+
+try find div with class="XQDdHH" and store it to  rating
+except rating = ""
+
+try find div with class="_6NESgJ" and store it to detials
+except detials = ""
+
+open an csv file and write prodct_name , price , rating , details
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
